@@ -5,3 +5,4 @@
 - 网吧包早理论：网友提名，目前没找到可靠来源
 - 彩椒理论、鸡腿饭理论、耍起理论、孙学理论、好事理论、冰美式理论、雅思7+理论、Vibe Coding理论、早C晚A理论、出租屋理论、过日子理论、大结果理论：见 https://www.haoyun5.net/dongfang/259031.html
 - 大牛奶理论、大纸理论：见 https://www.163.com/dy/article/L8RB57CN0526FP3N.html
+- 大产品理论、大对理论（陈昌文连麦邵艾伦时提出）、子弹理论、薄技能理论：2026-10-14 晚 X 上出现，见 https://x.com/CaptainLufei999/status/2110330522375446670 、https://x.com/lok_c4/status/2110328432693563404
