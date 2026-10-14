@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>理论纪 · 那些火过的互联网理论</title>
+<meta name="description" content="薄肌、大水、黄毛……把中文互联网火过的理论，一条条记下来。">
+<style>
+:root{--bg:#fff8f0;--ink:#2b2320;--mut:#8a7d74;--pink:#ff6b8b;--yel:#ffd36e;--mint:#8fe3c3;--blue:#9cc8ff;--card:#fff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:"PingFang SC","Noto Sans SC","Hiragino Sans GB",-apple-system,sans-serif;line-height:1.65}
+a{color:inherit;text-decoration:none}
+nav{display:flex;justify-content:space-between;align-items:center;padding:18px 6vw;font-weight:800}
+.logo{font-size:20px}.logo span{background:var(--pink);color:#fff;border-radius:8px;padding:2px 8px;margin-right:6px}
+.lang{display:flex;background:#fff;border-radius:999px;padding:4px;box-shadow:0 2px 0 var(--ink);border:2px solid var(--ink)}
+.lang button{border:0;background:none;font:inherit;font-size:13px;padding:4px 12px;border-radius:999px;cursor:pointer}
+.lang button.on{background:var(--ink);color:#fff}
+.hero{padding:40px 6vw 70px;text-align:center;position:relative}
+.stk{position:absolute;font-size:15px;font-weight:800;padding:8px 14px;border-radius:14px;border:2px solid var(--ink);box-shadow:3px 3px 0 var(--ink);white-space:nowrap}
+.k1{background:var(--yel);top:30px;left:9vw;transform:rotate(-8deg)}.k2{background:var(--mint);top:120px;right:8vw;transform:rotate(6deg)}
+.k3{background:var(--blue);bottom:40px;left:14vw;transform:rotate(4deg)}.k4{background:#ffc2d1;bottom:20px;right:15vw;transform:rotate(-5deg)}
+h1{font-size:clamp(40px,7vw,86px);line-height:1.15;margin:40px 0 18px;font-weight:900}
+h1 mark{background:linear-gradient(transparent 55%,var(--yel) 55%);color:inherit;padding:0 4px}
+.sub{font-size:clamp(16px,1.8vw,20px);color:var(--mut);max-width:560px;margin:0 auto}
+.road{display:inline-flex;gap:8px;margin-top:30px;flex-wrap:wrap;justify-content:center}
+.road b{background:#fff;border:2px solid var(--ink);border-radius:999px;padding:6px 16px;font-size:15px}
+.road i{font-style:normal;align-self:center}
+main{max-width:1100px;margin:0 auto;padding:10px 5vw 40px}
+.era{margin:46px 0}
+.eh{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:6px}
+.eh h2{margin:0;font-size:30px;font-weight:900}.eh .y{font-weight:900;font-size:14px;padding:2px 10px;border-radius:8px;border:2px solid var(--ink)}
+.en{color:var(--mut);margin:0 0 20px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
+.card{background:var(--card);border:2px solid var(--ink);border-radius:22px;box-shadow:5px 5px 0 var(--ink);padding:22px;display:flex;flex-direction:column;transition:.15s}
+.card:hover{transform:translate(-2px,-2px);box-shadow:7px 7px 0 var(--ink)}
+.top{height:8px;border-radius:99px;margin-bottom:16px;width:56px}
+.card h3{margin:0;font-size:25px;font-weight:900}.card .al{font-size:13px;color:var(--mut);margin-top:2px}
+.card .s{margin:12px 0;font-size:16px}
+.q{background:var(--bg);border-radius:14px;padding:10px 14px;font-weight:800;font-size:15px;margin-bottom:12px}
+.q::before{content:"“";color:var(--pink);font-size:22px;margin-right:2px}
+.tags{margin-top:auto;display:flex;flex-wrap:wrap;gap:6px;font-size:12.5px}
+.tags span{background:#f4ece4;border-radius:99px;padding:3px 10px;color:#5c514a}
+.say{margin:60px 0 10px;background:var(--yel);border:2px solid var(--ink);border-radius:26px;box-shadow:6px 6px 0 var(--ink);padding:34px;text-align:center}
+.say p{margin:0;font-size:clamp(20px,2.6vw,28px);font-weight:900}.say small{display:block;margin-top:10px;color:#5c514a}
+.join{text-align:center;margin:50px 0}
+.btn{display:inline-block;background:var(--pink);color:#fff;font-weight:900;padding:14px 28px;border-radius:16px;border:2px solid var(--ink);box-shadow:4px 4px 0 var(--ink)}
+footer{text-align:center;color:var(--mut);font-size:13px;padding:30px 20px 50px}
+@media(max-width:700px){
+nav{padding:14px 18px}.logo{font-size:17px}
+.hero{padding:10px 18px 36px;display:flex;flex-direction:column;align-items:center}
+.stk{position:static;font-size:12px;padding:5px 10px;border-radius:10px;box-shadow:2px 2px 0 var(--ink);margin:4px}
+.hero .stk:nth-child(-n+4){display:inline-block}
+.hero{flex-wrap:wrap;flex-direction:row;justify-content:center}
+.hero h1,.hero .sub,.hero .road{flex-basis:100%}
+h1{margin:22px 0 12px;font-size:40px}.sub{font-size:15px}
+.road b{font-size:13px;padding:5px 12px}
+main{padding:0 16px 30px}.era{margin:34px 0}.eh h2{font-size:23px}
+.grid{grid-template-columns:1fr;gap:16px}.card{padding:18px;border-radius:18px;box-shadow:4px 4px 0 var(--ink)}
+.card h3{font-size:22px}.say{padding:24px 18px;margin-top:40px}
+}
+</style></head><body>
+<nav><div class="logo"><span>理论</span><b data-i="brand"></b></div><div class="lang"><button data-l="zh">中文</button><button data-l="en">EN</button></div></nav>
+<div class="hero">
+ <div class="stk k1" data-i="k1"></div><div class="stk k2" data-i="k2"></div><div class="stk k3" data-i="k3"></div><div class="stk k4" data-i="k4"></div>
+ <h1 data-i="h1"></h1><p class="sub" data-i="sub"></p>
+ <div class="road"><b data-i="r1"></b><i>→</i><b data-i="r2"></b><i>→</i><b data-i="r3"></b></div>
+</div>
+<main><div id="app"></div>
+ <div class="say"><p data-i="say"></p><small data-i="sayby"></small></div>
+ <div class="join"><a class="btn" href="https://github.com/grokkkkkk/cn-theories/blob/main/CONTRIBUTING.md" data-i="join"></a></div>
+</main>
+<footer data-i="foot"></footer>
+<script>
+const REPO="https://github.com/grokkkkkk/cn-theories/blob/main/";
+const T={zh:{brand:"纪",k1:"💧 弱者喝饮料",k2:"💪 穿衣显瘦",k3:"😴 今晚早点睡",k4:"🟡 被拒绝，无所谓",
+h1:"那些<mark>火过的</mark><br>互联网理论",sub:"薄肌、大水、黄毛……隔一阵就冒出一个新“理论”。我们把它们一条条记下来：谁先说的，说了啥，大家为啥买账。",
+r1:"先吐槽",r2:"再找路",r3:"最后顾好自己",
+e2025:"2025 · 三大理论",n2025:"那会儿大家主要在吐槽：婚恋难、阶层卷，越说越扎心。",
+e2026:"2026 · 新理论",n2026:"不骂了，开始干点具体的：喝水、睡觉、练身体，先把自己照顾好。",
+say:"老路不灵了，那就先学会爱自己。",sayby:"概括自抖音博主 @好师兄戴梦 的视频",join:"发现新理论？来投稿 →",
+foot:"内容采用 CC BY-SA 4.0 · 每一条都附公开来源 · <a href='https://github.com/grokkkkkk/cn-theories'>GitHub</a>"},
+en:{brand:" · CN Theories",k1:"💧 skip the soda",k2:"💪 lean, not bulky",k3:"😴 sleep early tonight",k4:"🟡 rejected? whatever",
+h1:"The <mark>viral</mark><br>theories of Chinese internet",sub:"Lean muscle, big water, bleached hair... every few weeks a new “theory” takes over Chinese social media. We write down where each one came from, what it says, and why people bought in.",
+r1:"Complain",r2:"Find a way out",r3:"Take care of yourself",
+e2025:"2025 · The Big Three",n2025:"Back then it was mostly venting: dating is hard, class is rigid, and it stings.",
+e2026:"2026 · The New Wave",n2026:"Less venting, more doing: drink water, sleep, train. Look after yourself first.",
+say:"The old playbook stopped working. So start by loving yourself.",sayby:"Paraphrased from Douyin creator @好师兄戴梦",join:"Spotted a new theory? Submit it →",
+foot:"Content under CC BY-SA 4.0 · Every entry cites public sources · <a href='https://github.com/grokkkkkk/cn-theories'>GitHub</a>"}};
+const COL={"2025三大理论":"var(--blue)","2026新理论":"var(--pink)"},KEY={"2025三大理论":"2025","2026新理论":"2026"};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let DATA=[],L=new URLSearchParams(location.search).get("lang")||localStorage.lang||(navigator.language.startsWith("zh")?"zh":"en");
+function render(){document.documentElement.lang=L==="zh"?"zh-CN":"en";
+ document.querySelectorAll("[data-i]").forEach(e=>e.innerHTML=T[L][e.dataset.i]);
+ document.querySelectorAll(".lang button").forEach(b=>b.classList.toggle("on",b.dataset.l===L));
+ const g={};DATA.forEach(t=>(g[t.generation]=g[t.generation]||[]).push(t));
+ document.getElementById("app").innerHTML=Object.keys(g).sort().map(k=>{const y=KEY[k];return `<section class="era"><div class="eh"><h2>${T[L]["e"+y]||esc(k)}</h2></div><p class="en">${T[L]["n"+y]||""}</p><div class="grid">${g[k].sort((a,b)=>(a.first_viral||"").localeCompare(b.first_viral||"")).map(t=>{const zh=L==="zh",q=zh?t.quote:t.quote_en;
+ return `<a class="card" href="${REPO}${esc(t.file)}"><div class="top" style="background:${COL[k]}"></div><h3>${esc(zh?t.name:t.name_en)}</h3><div class="al">${esc(zh?(t.aliases||[]).join(" / "):t.name)}</div><div class="s">${esc(zh?t.summary:t.summary_en)}</div>${q?`<div class="q">${esc(q)}</div>`:""}<div class="tags">${t.proposer?`<span>@${esc(t.proposer)}</span>`:""}<span>${esc(t.platform)}</span>${t.first_viral?`<span>${esc(t.first_viral)}</span>`:""}</div></a>`}).join("")}</div></section>`}).join("");}
+document.querySelectorAll(".lang button").forEach(b=>b.onclick=()=>{L=b.dataset.l;localStorage.lang=L;render()});
+fetch("data/theories.json").then(r=>r.json()).then(d=>{DATA=d;render()});
+</script></body></html>
