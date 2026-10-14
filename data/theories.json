@@ -1,0 +1,153 @@
+[
+ {
+  "id": "xingyayi-lun",
+  "name": "性压抑论",
+  "aliases": [
+   "性压抑大一统理论"
+  ],
+  "generation": "2025三大理论",
+  "proposer": "峰哥亡命天涯",
+  "platform": "直播",
+  "tags": [
+   "两性",
+   "心理"
+  ],
+  "status": "待补充",
+  "file": "theories/2025/xingyayi-lun.md",
+  "sources": [
+   "https://www.cbeiji.com/shownews.php?fid=2&id=221717",
+   "https://haiwaiwai.com/news/108349"
+  ],
+  "summary": "男生的毛病，最后都能归到“憋的”。",
+  "name_en": "The Repression Theory",
+  "summary_en": "Every guy's problem, traced back to one root: repression.",
+  "quote": ""
+ },
+ {
+  "id": "ligong-siwei",
+  "name": "力工思维论",
+  "aliases": [
+   "力工梭哈论"
+  ],
+  "generation": "2025三大理论",
+  "proposer": "好师兄戴梦",
+  "platform": "抖音",
+  "tags": [
+   "婚恋",
+   "经济"
+  ],
+  "status": "原视频已删除",
+  "file": "theories/2025/ligong-siwei.md",
+  "sources": [
+   "https://www.cbeiji.com/shownews.php?fid=2&id=221717",
+   "https://haiwaiwai.com/news/108349"
+  ],
+  "summary": "省吃俭用攒一辈子，一把梭哈换个婚姻。",
+  "name_en": "The Laborer Mindset",
+  "summary_en": "Scrimp for years, then go all-in to 'buy' a marriage.",
+  "quote": ""
+ },
+ {
+  "id": "pingguo-anzhuo",
+  "name": "苹果安卓相对论",
+  "aliases": [
+   "苹果人/安卓人"
+  ],
+  "generation": "2025三大理论",
+  "proposer": "户晨风",
+  "platform": "直播",
+  "tags": [
+   "阶层",
+   "消费"
+  ],
+  "status": "提出者被封禁",
+  "file": "theories/2025/pingguo-anzhuo.md",
+  "sources": [
+   "https://www.cbeiji.com/shownews.php?fid=2&id=221717",
+   "https://haiwaiwai.com/news/108349"
+  ],
+  "summary": "你用什么手机，你就是什么阶层。",
+  "name_en": "iPhone vs Android Relativity",
+  "summary_en": "Tell me your phone, and I'll tell you your class.",
+  "quote": ""
+ },
+ {
+  "id": "baoji-lilun",
+  "name": "薄肌理论",
+  "aliases": [
+   "薄肌思维"
+  ],
+  "generation": "2026新理论",
+  "first_viral": "2026-08-29",
+  "proposer": "邵艾伦",
+  "platform": "B站",
+  "tags": [
+   "健康",
+   "身材"
+  ],
+  "status": "活跃",
+  "file": "theories/2026/baoji-lilun.md",
+  "sources": [
+   "https://post.smzdm.com/p/ak8x73qe/",
+   "https://noodleswang.com/who-is-alan-shao/",
+   "https://news.qq.com/rain/a/20261009A08ITO00"
+  ],
+  "summary": "不练大块头，就要一层薄薄的线条。重点是“肌”，不是“薄”。",
+  "name_en": "The Lean Muscle Theory",
+  "summary_en": "Not bulky, just lean and defined. The point is the muscle, not the thin.",
+  "quote": "穿衣显瘦，脱衣有肉。",
+  "quote_en": "Slim in clothes, toned without."
+ },
+ {
+  "id": "huangmao-siwei",
+  "name": "黄毛思维",
+  "aliases": [
+   "黄毛理论"
+  ],
+  "generation": "2026新理论",
+  "first_viral": "2026-09-15",
+  "proposer": "邵艾伦",
+  "platform": "B站",
+  "tags": [
+   "情感",
+   "自我"
+  ],
+  "status": "活跃",
+  "file": "theories/2026/huangmao-siwei.md",
+  "sources": [
+   "https://www.bohaishibei.com/post/113543/",
+   "https://noodleswang.com/who-is-alan-shao/"
+  ],
+  "summary": "不是让你真去染黄毛，是先把自己的日子过好。",
+  "name_en": "The Bleached-Hair Mindset",
+  "summary_en": "Not about dyeing your hair. It's about having a life of your own first.",
+  "quote": "想认识就开口，想机会就争取，被拒绝，无所谓。",
+  "quote_en": "Want to meet them? Say hi. Want the chance? Go for it. Rejected? Whatever."
+ },
+ {
+  "id": "dashui-lilun",
+  "name": "大水理论",
+  "aliases": [
+   "喝大水"
+  ],
+  "generation": "2026新理论",
+  "first_viral": "2026-10-05",
+  "proposer": null,
+  "platform": "抖音",
+  "tags": [
+   "健康",
+   "饮食"
+  ],
+  "status": "活跃",
+  "file": "theories/2026/dashui-lilun.md",
+  "sources": [
+   "https://news.qq.com/rain/a/20261008A097BP00",
+   "https://feng.ifeng.com/c/8xBa5IqOUpx"
+  ],
+  "summary": "奶茶戒了，拎一瓶两升的白开水出门。",
+  "name_en": "The Big Water Theory",
+  "summary_en": "Ditch the bubble tea. Carry a 2-liter bottle of water instead.",
+  "quote": "弱者喝饮料，强者喝大水。",
+  "quote_en": "The weak drink soda. The strong drink big water."
+ }
+]
