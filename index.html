@@ -36,6 +36,7 @@ main{max-width:1100px;margin:0 auto;padding:10px 5vw 40px}
 .q::before{content:"“";color:var(--pink);font-size:22px;margin-right:2px}
 .tags{margin-top:auto;display:flex;flex-wrap:wrap;gap:6px;font-size:12.5px}
 .tags span{background:#f4ece4;border-radius:99px;padding:3px 10px;color:#5c514a}
+.pend{margin:40px 0 0;border:2px dashed var(--ink);border-radius:22px;padding:22px 24px;background:#fff}.pend h3{margin:0 0 8px;font-size:20px}.pend p{margin:0;color:#5c514a}
 .say{margin:60px 0 10px;background:var(--yel);border:2px solid var(--ink);border-radius:26px;box-shadow:6px 6px 0 var(--ink);padding:34px;text-align:center}
 .say p{margin:0;font-size:clamp(20px,2.6vw,28px);font-weight:900}.say small{display:block;margin-top:10px;color:#5c514a}
 .join{text-align:center;margin:50px 0}
@@ -62,6 +63,7 @@ main{padding:0 16px 30px}.era{margin:34px 0}.eh h2{font-size:23px}
  <div class="road"><b data-i="r1"></b><i>→</i><b data-i="r2"></b><i>→</i><b data-i="r3"></b></div>
 </div>
 <main><div id="app"></div>
+ <div class="pend"><h3 data-i="pt"></h3><p data-i="pl"></p></div>
  <div class="say"><p data-i="say"></p><small data-i="sayby"></small></div>
  <div class="join"><a class="btn" href="https://github.com/grokkkkkk/cn-theories/blob/main/CONTRIBUTING.md" data-i="join"></a></div>
 </main>
@@ -73,14 +75,14 @@ h1:"那些<mark>火过的</mark><br>互联网理论",sub:"薄肌、大水、黄�
 r1:"先吐槽",r2:"再找路",r3:"最后顾好自己",
 e2025:"2025 · 三大理论",n2025:"那会儿大家主要在吐槽：婚恋难、阶层卷，越说越扎心。",
 e2026:"2026 · 新理论",n2026:"不骂了，开始干点具体的：喝水、睡觉、练身体，先把自己照顾好。",
-say:"老路不灵了，那就先学会爱自己。",sayby:"概括自抖音博主 @好师兄戴梦 的视频",join:"发现新理论？来投稿 →",
+say:"老路不灵了，那就先学会爱自己。",sayby:"概括自抖音博主 @好师兄戴梦 的视频",join:"发现新理论？来投稿 →",pt:"🔍 还在考证的",pl:"网吧包早理论、彩椒理论、鸡腿饭理论、耍起理论、早C晚A理论、冰美式理论、出租屋理论……网上有人提，但出处还没查实。知道来龙去脉的话，欢迎来补。",
 foot:"内容采用 CC BY-SA 4.0 · 每一条都附公开来源 · <a href='https://github.com/grokkkkkk/cn-theories'>GitHub</a>"},
 en:{brand:" · CN Theories",k1:"💧 skip the soda",k2:"💪 lean, not bulky",k3:"😴 sleep early tonight",k4:"🟡 rejected? whatever",
 h1:"The <mark>viral</mark><br>theories of Chinese internet",sub:"Lean muscle, big water, bleached hair... every few weeks a new “theory” takes over Chinese social media. We write down where each one came from, what it says, and why people bought in.",
 r1:"Complain",r2:"Find a way out",r3:"Take care of yourself",
 e2025:"2025 · The Big Three",n2025:"Back then it was mostly venting: dating is hard, class is rigid, and it stings.",
 e2026:"2026 · The New Wave",n2026:"Less venting, more doing: drink water, sleep, train. Look after yourself first.",
-say:"The old playbook stopped working. So start by loving yourself.",sayby:"Paraphrased from Douyin creator @好师兄戴梦",join:"Spotted a new theory? Submit it →",
+say:"The old playbook stopped working. So start by loving yourself.",sayby:"Paraphrased from Douyin creator @好师兄戴梦",join:"Spotted a new theory? Submit it →",pt:"🔍 Still being verified",pl:"Internet-café morning pass, bell pepper, chicken-leg rice, iced americano, rented-room theories and more. People mention them, but we haven't traced the origins yet. Know the story? Help us fill it in.",
 foot:"Content under CC BY-SA 4.0 · Every entry cites public sources · <a href='https://github.com/grokkkkkk/cn-theories'>GitHub</a>"}};
 const COL={"2025三大理论":"var(--blue)","2026新理论":"var(--pink)"},KEY={"2025三大理论":"2025","2026新理论":"2026"};
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));

@@ -149,5 +149,143 @@
   "summary_en": "Ditch the bubble tea. Carry a 2-liter bottle of water instead.",
   "quote": "弱者喝饮料，强者喝大水。",
   "quote_en": "The weak drink soda. The strong drink big water."
+ },
+ {
+  "id": "dashuijiao-lilun",
+  "file": "theories/2026/dashuijiao-lilun.md",
+  "name": "大睡理论",
+  "aliases": [
+   "睡大觉"
+  ],
+  "name_en": "The Big Sleep Theory",
+  "platform": "抖音",
+  "first_viral": "2026-10",
+  "tags": [
+   "健康",
+   "作息"
+  ],
+  "status": "活跃",
+  "summary": "不熬了，按点睡，睡够八小时。",
+  "summary_en": "No more late nights. Go to bed on time and get your eight hours.",
+  "quote": "",
+  "sources": [
+   "https://www.sina.cn/news/detail/5352485305716955.html",
+   "https://news.qq.com/rain/a/20261008A097BP00"
+  ],
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "xiaoshui-lilun",
+  "name": "小水理论",
+  "aliases": [],
+  "name_en": "The Small Water Theory",
+  "platform": "抖音",
+  "first_viral": "2026-10",
+  "tags": [
+   "健康",
+   "饮食"
+  ],
+  "status": "活跃",
+  "summary": "大水的反方：小瓶好带、干净，少量多次喝。",
+  "summary_en": "The counter-take on big water: small bottles are cleaner and easier to carry. Sip often.",
+  "quote": "顶男顶女都喝优雅小水。",
+  "quote_en": "The real ones sip elegant small water.",
+  "sources": [
+   "https://www.163.com/dy/article/L8RB57CN0526FP3N.html",
+   "https://www.sina.cn/news/detail/5352485305716955.html"
+  ],
+  "file": "theories/2026/xiaoshui-lilun.md",
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "dabei-lilun",
+  "name": "大杯理论",
+  "aliases": [],
+  "name_en": "The Big Cup Theory",
+  "platform": "抖音",
+  "first_viral": "2026-10",
+  "tags": [
+   "省钱",
+   "饮食"
+  ],
+  "status": "活跃",
+  "summary": "买个和大水一样大的杯子，去公司学校蹭水，连水钱都省了。",
+  "summary_en": "Get a cup as big as a 2L bottle and refill it for free at work or school.",
+  "quote": "",
+  "sources": [
+   "https://www.163.com/dy/article/L8RB57CN0526FP3N.html"
+  ],
+  "file": "theories/2026/dabei-lilun.md",
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "dacai-lilun",
+  "name": "大菜理论",
+  "aliases": [],
+  "name_en": "The Big Veggie Theory",
+  "platform": "抖音",
+  "first_viral": "2026-10",
+  "tags": [
+   "健康",
+   "饮食"
+  ],
+  "status": "活跃",
+  "summary": "光喝大水不够，还得配一大份蔬菜。",
+  "summary_en": "Big water isn't enough. Pair it with a big plate of greens.",
+  "quote": "",
+  "sources": [
+   "https://www.sina.cn/news/detail/5352485305716955.html",
+   "https://www.163.com/dy/article/L8RB57CN0526FP3N.html"
+  ],
+  "file": "theories/2026/dacai-lilun.md",
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "jujue-xuesheng-siwei",
+  "name": "拒绝学生思维",
+  "aliases": [],
+  "name_en": "Quit the Student Mindset",
+  "platform": "短视频平台",
+  "first_viral": "2026-10",
+  "tags": [
+   "职场",
+   "自我"
+  ],
+  "status": "活跃",
+  "summary": "别再等标准答案、等别人安排了，自己拿主意，自己担着。",
+  "summary_en": "Stop waiting for the right answer or for someone to tell you what to do. Decide, and own it.",
+  "quote": "",
+  "sources": [
+   "https://www.sina.cn/news/detail/5352485305716955.html"
+  ],
+  "file": "theories/2026/jujue-xuesheng-siwei.md",
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "jiese-lilun",
+  "name": "戒色理论",
+  "aliases": [],
+  "name_en": "The Abstinence Theory",
+  "platform": "短视频平台",
+  "first_viral": "2026-10",
+  "tags": [
+   "两性",
+   "健康"
+  ],
+  "status": "有争议",
+  "summary": "把正常欲望当成必须戒掉的东西，不少说法把效果吹得太神。",
+  "summary_en": "Treats normal desire as something to quit, often with wildly overblown claims.",
+  "quote": "",
+  "sources": [
+   "https://www.sina.cn/news/detail/5352485305716955.html"
+  ],
+  "file": "theories/2026/jiese-lilun.md",
+  "generation": "2026新理论",
+  "proposer": null
  }
 ]
