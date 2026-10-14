@@ -1,3 +1,10 @@
+<p align="center"><a href="https://grokkkkkk.github.io/cn-theories/"><img src="assets/cover.png" alt="中文互联网理论演变观察" width="720"></a></p>
+
+<p align="center"><b>从性压抑论到大水理论，中文互联网的“XX理论”都在这儿了。</b><br>
+<a href="https://grokkkkkk.github.io/cn-theories/">在线浏览</a> · <a href="https://grokkkkkk.github.io/cn-theories/?lang=en">English</a> · <a href="PENDING.md">还在考证的</a></p>
+
+<p align="center">觉得有意思的话，点个 ⭐ 吧。刷到新理论也欢迎提 PR。</p>
+
 # 中文互联网理论演变观察（xx-theories）
 
 收录中文互联网上以“XX理论 / XX思维”命名的流行说法，记录它们的出处、时间线、核心观点、争议和事实核查，并观察不同代际理论之间的演变。
