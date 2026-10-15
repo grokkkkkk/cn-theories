@@ -1,0 +1,55 @@
+{
+  "name": "cn-theories-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for cn-theories: search China's internet 'theories' (大水理论, 薄肌理论, 黄毛思维…) in Chinese and English.",
+  "mcpName": "io.github.grokkkkkk/cn-theories",
+  "type": "module",
+  "bin": {
+    "cn-theories-mcp": "dist/index.js"
+  },
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "sync-data": "node scripts/sync-data.mjs",
+    "build": "npm run sync-data && tsc && node -e \"require('fs').chmodSync('dist/index.js',0o755)\"",
+    "prepublishOnly": "npm run build",
+    "start": "node dist/index.js",
+    "test": "node test/client.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "chinese",
+    "internet-culture",
+    "memes",
+    "theories",
+    "中文互联网",
+    "理论"
+  ],
+  "author": "grokkkkkk",
+  "license": "(MIT AND CC-BY-SA-4.0)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grokkkkkk/cn-theories.git",
+    "directory": "mcp"
+  },
+  "homepage": "https://grokkkkkk.github.io/cn-theories/",
+  "bugs": "https://github.com/grokkkkkk/cn-theories/issues",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "typescript": "^5.9.3"
+  }
+}

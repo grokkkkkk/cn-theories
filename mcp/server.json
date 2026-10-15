@@ -1,0 +1,32 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.grokkkkkk/cn-theories",
+  "title": "CN Internet Theories / 中文互联网理论库",
+  "description": "Search viral Chinese-internet theories (大水理论, 薄肌理论…) with sources, in Chinese and English.",
+  "repository": {
+    "url": "https://github.com/grokkkkkk/cn-theories",
+    "source": "github",
+    "subfolder": "mcp"
+  },
+  "websiteUrl": "https://grokkkkkk.github.io/cn-theories/",
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "cn-theories-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "CN_THEORIES_OFFLINE",
+          "description": "Set to 1 to skip GitHub and use only the data bundled in the package",
+          "isRequired": false,
+          "format": "boolean"
+        }
+      ]
+    }
+  ]
+}
