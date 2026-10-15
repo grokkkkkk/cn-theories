@@ -33,6 +33,7 @@ Put side by side, they tell a story. The 2025 wave was mostly dark jokes about d
 | 2026 · The New Wave | The Big Water Theory (大水理论) | Ditch the bubble tea. Carry a 2-liter bottle of water instead. | 2026-10-05 | Douyin | [Entry (zh)](theories/2026/dashui-lilun.md) |
 | 2026 · The New Wave | The Big Stand Theory (大站理论) | Don't sit all day. Get up and stand for five minutes every hour. | 2026-10-13 | 三个人一本书 / Xiaoyuzhou podcast | [Entry (zh)](theories/2026/dazhan-lilun.md) |
 | 2026 · The New Wave | The Bell Pepper Theory (彩椒理论) | Make bell peppers your go-to vegetable. Easy, tasty, and colorful. | 2026-10-14 | Weibo | [Entry (zh)](theories/2026/caijiao-lilun.md) |
+| 2026 · The New Wave | The Indeed Theory (确实理论) | Whatever people say, start with "indeed." Don't rush to argue, and don't rush to prove yourself. | 2026-10-14 | Clot渔夫 / X | [Entry (zh)](theories/2026/queshi-lilun.md) |
 
 Full entries are in Chinese for now. English translations are welcome as PRs.
 
