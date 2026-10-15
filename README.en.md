@@ -22,7 +22,7 @@ Put side by side, they tell a story. The 2025 wave was mostly dark jokes about d
 | 2025 · The Big Three | The Repression Theory (性压抑论) | Every guy's problem, traced back to one root: repression. | 2025 (reported 2025-09-24) | 峰哥亡命天涯 / Livestream | [Entry (zh)](theories/2025/xingyayi-lun.md) |
 | 2025 · The Big Three | The Laborer Mindset (力工思维论) | Scrimp for years, then go all-in to 'buy' a marriage. | 2025 (reported 2025-09-24) | 好师兄戴梦 / Douyin | [Entry (zh)](theories/2025/ligong-siwei.md) |
 | 2025 · The Big Three | iPhone vs Android Relativity (苹果安卓相对论) | Tell me your phone, and I'll tell you your class. | 2025 (reported 2025-09-24) | 户晨风 / Livestream | [Entry (zh)](theories/2025/pingguo-anzhuo.md) |
-| 2026 · The New Wave | The Lean Muscle Theory (薄肌理论) | Not bulky, just lean and defined. The point is the muscle, not the thin. | 2026-08-29 | 邵艾伦 / Bilibili | [Entry (zh)](theories/2026/baoji-lilun.md) |
+| 2026 · The New Wave | The Lean Muscle Theory (薄肌理论) | Not bulky, just lean and defined. The point is the muscle, not the thin. | 2026-08-17 | 邵艾伦 / X | [Entry (zh)](theories/2026/baoji-lilun.md) |
 | 2026 · The New Wave | The Bleached-Hair Mindset (黄毛思维) | Not about dyeing your hair. It's about having a life of your own first. | 2026-09-15 | 邵艾伦 / Bilibili | [Entry (zh)](theories/2026/huangmao-siwei.md) |
 | 2026 · The New Wave | The Big Sleep Theory (大睡理论) | No more late nights. Go to bed on time and get your eight hours. | 2026-10 | Douyin | [Entry (zh)](theories/2026/dashuijiao-lilun.md) |
 | 2026 · The New Wave | The Small Water Theory (小水理论) | The counter-take on big water: small bottles are cleaner and easier to carry. Sip often. | 2026-10 | Douyin | [Entry (zh)](theories/2026/xiaoshui-lilun.md) |
@@ -31,6 +31,8 @@ Put side by side, they tell a story. The 2025 wave was mostly dark jokes about d
 | 2026 · The New Wave | Quit the Student Mindset (拒绝学生思维) | Stop waiting for the right answer or for someone to tell you what to do. Decide, and own it. | 2026-10 | Short-video apps | [Entry (zh)](theories/2026/jujue-xuesheng-siwei.md) |
 | 2026 · The New Wave | The Abstinence Theory (戒色理论) | Treats normal desire as something to quit, often with wildly overblown claims. | 2026-10 | Short-video apps | [Entry (zh)](theories/2026/jiese-lilun.md) |
 | 2026 · The New Wave | The Big Water Theory (大水理论) | Ditch the bubble tea. Carry a 2-liter bottle of water instead. | 2026-10-05 | Douyin | [Entry (zh)](theories/2026/dashui-lilun.md) |
+| 2026 · The New Wave | The Big Stand Theory (大站理论) | Don't sit all day. Get up and stand for five minutes every hour. | 2026-10-13 | 三个人一本书 / Xiaoyuzhou podcast | [Entry (zh)](theories/2026/dazhan-lilun.md) |
+| 2026 · The New Wave | The Bell Pepper Theory (彩椒理论) | Make bell peppers your go-to vegetable. Easy, tasty, and colorful. | 2026-10-14 | Weibo | [Entry (zh)](theories/2026/caijiao-lilun.md) |
 
 Full entries are in Chinese for now. English translations are welcome as PRs.
 
