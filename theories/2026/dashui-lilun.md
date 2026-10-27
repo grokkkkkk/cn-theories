@@ -33,3 +33,6 @@
 1. [“大水理论”为什么火？](https://news.qq.com/rain/a/20261008A097BP00)（腾讯新闻，2026-10-08）
 2. [全网热议的“喝大水”是啥意思？](https://feng.ifeng.com/c/8xBa5IqOUpx)（凤凰网）
 3. [医生谈薄肌理论](https://www.sina.cn/news/detail/5351798686615466.html)（新浪/大象新闻）
+4. [新华网转载新京报《货架经济学丨“喝大水”上热搜》（顺带提到薄肌、大睡）](http://www.xinhuanet.com/food/20261016/9ab3d3c0813b4e0390f8dc40975b4b3d/c.html)（新华网，2026-10-16）
+5. [人民日报健康客户端相关报道](https://news.qq.com/rain/a/20261012A07K4U00)
+6. [工人日报转上海疾控相关报道](https://m.gmw.cn/2026-10/25/content_1304578987.htm)

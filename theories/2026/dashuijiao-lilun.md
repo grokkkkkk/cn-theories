@@ -13,3 +13,6 @@
 ## 来源
 - https://www.sina.cn/news/detail/5352485305716955.html
 - https://news.qq.com/rain/a/20261008A097BP00
+- [新华网转载新京报《货架经济学丨“喝大水”上热搜》（顺带提到薄肌、大睡）](http://www.xinhuanet.com/food/20261016/9ab3d3c0813b4e0390f8dc40975b4b3d/c.html)
+- [人民日报健康客户端相关报道](https://news.qq.com/rain/a/20261012A07K4U00)
+- [工人日报转上海疾控相关报道](https://m.gmw.cn/2026-10/25/content_1304578987.htm)
