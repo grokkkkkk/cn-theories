@@ -1,17 +1,377 @@
 [
- {"id":"xingyayi-lun","name":"性压抑论","aliases":["性压抑大一统理论"],"generation":"2025三大理论","proposer":"峰哥亡命天涯","platform":"直播","tags":["两性","心理"],"status":"待补充","file":"theories/2025/xingyayi-lun.md","sources":["https://www.cbeiji.com/shownews.php?fid=2&id=221717","https://haiwaiwai.com/news/108349"],"summary":"男生的毛病，最后都能归到“憋的”。","name_en":"The Repression Theory","summary_en":"Every guy's problem, traced back to one root: repression.","quote":""},
- {"id":"ligong-siwei","name":"力工思维论","aliases":["力工梭哈论"],"generation":"2025三大理论","proposer":"好师兄戴梦","platform":"抖音","tags":["婚恋","经济"],"status":"原视频已删除","file":"theories/2025/ligong-siwei.md","sources":["https://www.cbeiji.com/shownews.php?fid=2&id=221717","https://haiwaiwai.com/news/108349"],"summary":"省吃俭用攒一辈子，一把梭哈换个婚姻。","name_en":"The Laborer Mindset","summary_en":"Scrimp for years, then go all-in to 'buy' a marriage.","quote":""},
- {"id":"pingguo-anzhuo","name":"苹果安卓相对论","aliases":["苹果人/安卓人"],"generation":"2025三大理论","proposer":"户晨风","platform":"直播","tags":["阶层","消费"],"status":"提出者被封禁","file":"theories/2025/pingguo-anzhuo.md","sources":["https://www.cbeiji.com/shownews.php?fid=2&id=221717","https://haiwaiwai.com/news/108349"],"summary":"你用什么手机，你就是什么阶层。","name_en":"iPhone vs Android Relativity","summary_en":"Tell me your phone, and I'll tell you your class.","quote":""},
- {"id":"baoji-lilun","name":"薄肌理论","aliases":["薄肌思维"],"generation":"2026新理论","first_viral":"2026-08-17","proposer":"邵艾伦","platform":"X","tags":["健康","身材"],"status":"活跃","file":"theories/2026/baoji-lilun.md","sources":["https://x.com/AlanShao111/status/2089045276598436169","https://x.com/AlanShao111/status/2093592063568966076","https://post.smzdm.com/p/ak8x73qe/","https://noodleswang.com/who-is-alan-shao/","https://news.qq.com/rain/a/20261009A08ITO00"],"summary":"不练大块头，就要一层薄薄的线条。重点是“肌”，不是“薄”。","name_en":"The Lean Muscle Theory","summary_en":"Not bulky, just lean and defined. The point is the muscle, not the thin.","quote":"穿衣显瘦，脱衣有肉。","quote_en":"Slim in clothes, toned without."},
- {"id":"huangmao-siwei","name":"黄毛思维","aliases":["黄毛理论"],"generation":"2026新理论","first_viral":"2026-09-15","proposer":"邵艾伦","platform":"B站","tags":["情感","自我"],"status":"活跃","file":"theories/2026/huangmao-siwei.md","sources":["https://www.bohaishibei.com/post/113543/","https://noodleswang.com/who-is-alan-shao/"],"summary":"不是让你真去染黄毛，是先把自己的日子过好。","name_en":"The Bleached-Hair Mindset","summary_en":"Not about dyeing your hair. It's about having a life of your own first.","quote":"想认识就开口，想机会就争取，被拒绝，无所谓。","quote_en":"Want to meet them? Say hi. Want the chance? Go for it. Rejected? Whatever."},
- {"id":"dashui-lilun","name":"大水理论","aliases":["喝大水"],"generation":"2026新理论","first_viral":"2026-10-05","proposer":null,"platform":"抖音","tags":["健康","饮食"],"status":"活跃","file":"theories/2026/dashui-lilun.md","sources":["https://news.qq.com/rain/a/20261008A097BP00","https://feng.ifeng.com/c/8xBa5IqOUpx"],"summary":"奶茶戒了，拎一瓶两升的白开水出门。","name_en":"The Big Water Theory","summary_en":"Ditch the bubble tea. Carry a 2-liter bottle of water instead.","quote":"弱者喝饮料，强者喝大水。","quote_en":"The weak drink soda. The strong drink big water."},
- {"id":"dashuijiao-lilun","file":"theories/2026/dashuijiao-lilun.md","name":"大睡理论","aliases":["睡大觉"],"name_en":"The Big Sleep Theory","platform":"抖音","first_viral":"2026-10","tags":["健康","作息"],"status":"活跃","summary":"不熬了，按点睡，睡够八小时。","summary_en":"No more late nights. Go to bed on time and get your eight hours.","quote":"","sources":["https://www.sina.cn/news/detail/5352485305716955.html","https://news.qq.com/rain/a/20261008A097BP00"],"generation":"2026新理论","proposer":null},
- {"id":"xiaoshui-lilun","name":"小水理论","aliases":[],"name_en":"The Small Water Theory","platform":"抖音","first_viral":"2026-10","tags":["健康","饮食"],"status":"活跃","summary":"大水的反方：小瓶好带、干净，少量多次喝。","summary_en":"The counter-take on big water: small bottles are cleaner and easier to carry. Sip often.","quote":"顶男顶女都喝优雅小水。","quote_en":"The real ones sip elegant small water.","sources":["https://www.163.com/dy/article/L8RB57CN0526FP3N.html","https://www.sina.cn/news/detail/5352485305716955.html"],"file":"theories/2026/xiaoshui-lilun.md","generation":"2026新理论","proposer":null},
- {"id":"dabei-lilun","name":"大杯理论","aliases":[],"name_en":"The Big Cup Theory","platform":"抖音","first_viral":"2026-10","tags":["省钱","饮食"],"status":"活跃","summary":"买个和大水一样大的杯子，去公司学校蹭水，连水钱都省了。","summary_en":"Get a cup as big as a 2L bottle and refill it for free at work or school.","quote":"","sources":["https://www.163.com/dy/article/L8RB57CN0526FP3N.html"],"file":"theories/2026/dabei-lilun.md","generation":"2026新理论","proposer":null},
- {"id":"dacai-lilun","name":"大菜理论","aliases":[],"name_en":"The Big Veggie Theory","platform":"抖音","first_viral":"2026-10","tags":["健康","饮食"],"status":"活跃","summary":"光喝大水不够，还得配一大份蔬菜。","summary_en":"Big water isn't enough. Pair it with a big plate of greens.","quote":"","sources":["https://www.sina.cn/news/detail/5352485305716955.html","https://www.163.com/dy/article/L8RB57CN0526FP3N.html"],"file":"theories/2026/dacai-lilun.md","generation":"2026新理论","proposer":null},
- {"id":"jujue-xuesheng-siwei","name":"拒绝学生思维","aliases":[],"name_en":"Quit the Student Mindset","platform":"短视频平台","first_viral":"2026-10","tags":["职场","自我"],"status":"活跃","summary":"别再等标准答案、等别人安排了，自己拿主意，自己担着。","summary_en":"Stop waiting for the right answer or for someone to tell you what to do. Decide, and own it.","quote":"","sources":["https://www.sina.cn/news/detail/5352485305716955.html"],"file":"theories/2026/jujue-xuesheng-siwei.md","generation":"2026新理论","proposer":null},
- {"id":"jiese-lilun","name":"戒色理论","aliases":[],"name_en":"The Abstinence Theory","platform":"短视频平台","first_viral":"2026-10","tags":["两性","健康"],"status":"有争议","summary":"把正常欲望当成必须戒掉的东西，不少说法把效果吹得太神。","summary_en":"Treats normal desire as something to quit, often with wildly overblown claims.","quote":"","sources":["https://www.sina.cn/news/detail/5352485305716955.html"],"file":"theories/2026/jiese-lilun.md","generation":"2026新理论","proposer":null},
- {"id":"dazhan-lilun","name":"大站理论","aliases":[],"name_en":"The Big Stand Theory","generation":"2026新理论","proposer":"三个人一本书","platform":"小宇宙播客","first_viral":"2026-10-13","tags":["健康","职场"],"status":"活跃","file":"theories/2026/dazhan-lilun.md","sources":["https://www.xiaoyuzhoufm.com/episode/6acdaf77e742e36efcc227ae","https://www.huxiu.com/article/4897592.html"],"summary":"别一坐一整天，每坐一小时就起来站五分钟。","summary_en":"Don't sit all day. Get up and stand for five minutes every hour.","quote":"世界管不了，但这5分钟我说了算。","quote_en":"I can't fix the world, but these five minutes are mine."},
- {"id":"caijiao-lilun","name":"彩椒理论","aliases":[],"name_en":"The Bell Pepper Theory","generation":"2026新理论","proposer":null,"platform":"微博","first_viral":"2026-10-14","tags":["健康","饮食"],"status":"活跃","file":"theories/2026/caijiao-lilun.md","sources":["https://www.sina.cn/news/detail/5353947242957755.html"],"summary":"把彩椒当成固定吃的蔬菜，简单好吃，颜色多。","summary_en":"Make bell peppers your go-to vegetable. Easy, tasty, and colorful.","quote":"如果你不吃大彩椒，那我不要和你说话。","quote_en":"If you don't eat big bell peppers, I'm not talking to you."},
- {"id":"queshi-lilun","name":"确实理论","aliases":["确实主义"],"name_en":"The Indeed Theory","generation":"2026新理论","proposer":"Clot渔夫","platform":"X","first_viral":"2026-10-14","tags":["心理","自我"],"status":"活跃","file":"theories/2026/queshi-lilun.md","sources":["https://x.com/clotyufu/status/2110300354994896993","https://x.com/clotyufu/status/2110327494134112658","https://x.com/clotyufu/status/2110331589662322912","https://www.sina.cn/weibo/detail/5346120823997876.html"],"summary":"别人说啥都先回一句“确实”，不急着反驳，也不急着证明自己。","summary_en":"Whatever people say, start with \"indeed.\" Don't rush to argue, and don't rush to prove yourself.","quote":"弱者研究如何反驳别人，强者只会说确实。","quote_en":"The weak study how to argue back. The strong just say \"indeed.\""}
+ {
+  "id": "xingyayi-lun",
+  "name": "性压抑论",
+  "aliases": [
+   "性压抑大一统理论"
+  ],
+  "generation": "2025三大理论",
+  "proposer": "峰哥亡命天涯",
+  "platform": "直播",
+  "tags": [
+   "两性",
+   "心理"
+  ],
+  "status": "待补充",
+  "file": "theories/2025/xingyayi-lun.md",
+  "sources": [
+   "https://www.cbeiji.com/shownews.php?fid=2&id=221717",
+   "https://haiwaiwai.com/news/108349"
+  ],
+  "summary": "男生的毛病，最后都能归到“憋的”。",
+  "name_en": "The Repression Theory",
+  "summary_en": "Every guy's problem, traced back to one root: repression.",
+  "quote": ""
+ },
+ {
+  "id": "ligong-siwei",
+  "name": "力工思维论",
+  "aliases": [
+   "力工梭哈论"
+  ],
+  "generation": "2025三大理论",
+  "proposer": "好师兄戴梦",
+  "platform": "抖音",
+  "tags": [
+   "婚恋",
+   "经济"
+  ],
+  "status": "原视频已删除",
+  "file": "theories/2025/ligong-siwei.md",
+  "sources": [
+   "https://www.cbeiji.com/shownews.php?fid=2&id=221717",
+   "https://haiwaiwai.com/news/108349"
+  ],
+  "summary": "省吃俭用攒一辈子，一把梭哈换个婚姻。",
+  "name_en": "The Laborer Mindset",
+  "summary_en": "Scrimp for years, then go all-in to 'buy' a marriage.",
+  "quote": ""
+ },
+ {
+  "id": "pingguo-anzhuo",
+  "name": "苹果安卓相对论",
+  "aliases": [
+   "苹果人/安卓人"
+  ],
+  "generation": "2025三大理论",
+  "proposer": "户晨风",
+  "platform": "直播",
+  "tags": [
+   "阶层",
+   "消费"
+  ],
+  "status": "提出者被封禁",
+  "file": "theories/2025/pingguo-anzhuo.md",
+  "sources": [
+   "https://www.cbeiji.com/shownews.php?fid=2&id=221717",
+   "https://haiwaiwai.com/news/108349"
+  ],
+  "summary": "你用什么手机，你就是什么阶层。",
+  "name_en": "iPhone vs Android Relativity",
+  "summary_en": "Tell me your phone, and I'll tell you your class.",
+  "quote": ""
+ },
+ {
+  "id": "baoji-lilun",
+  "name": "薄肌理论",
+  "aliases": [
+   "薄肌思维"
+  ],
+  "generation": "2026新理论",
+  "first_viral": "2026-08-17",
+  "proposer": "邵艾伦",
+  "platform": "X",
+  "tags": [
+   "健康",
+   "身材"
+  ],
+  "status": "活跃",
+  "file": "theories/2026/baoji-lilun.md",
+  "sources": [
+   "https://x.com/AlanShao111/status/2089045276598436169",
+   "https://x.com/AlanShao111/status/2093592063568966076",
+   "https://post.smzdm.com/p/ak8x73qe/",
+   "https://noodleswang.com/who-is-alan-shao/",
+   "https://news.qq.com/rain/a/20261009A08ITO00",
+   "http://www.xinhuanet.com/food/20261016/9ab3d3c0813b4e0390f8dc40975b4b3d/c.html",
+   "https://news.qq.com/rain/a/20261012A07K4U00",
+   "https://m.gmw.cn/2026-10/25/content_1304578987.htm"
+  ],
+  "summary": "不练大块头，就要一层薄薄的线条。重点是“肌”，不是“薄”。",
+  "name_en": "The Lean Muscle Theory",
+  "summary_en": "Not bulky, just lean and defined. The point is the muscle, not the thin.",
+  "quote": "穿衣显瘦，脱衣有肉。",
+  "quote_en": "Slim in clothes, toned without."
+ },
+ {
+  "id": "huangmao-siwei",
+  "name": "黄毛思维",
+  "aliases": [
+   "黄毛理论"
+  ],
+  "generation": "2026新理论",
+  "first_viral": "2026-09-15",
+  "proposer": "邵艾伦",
+  "platform": "B站",
+  "tags": [
+   "情感",
+   "自我"
+  ],
+  "status": "活跃",
+  "file": "theories/2026/huangmao-siwei.md",
+  "sources": [
+   "https://www.bohaishibei.com/post/113543/",
+   "https://noodleswang.com/who-is-alan-shao/"
+  ],
+  "summary": "不是让你真去染黄毛，是先把自己的日子过好。",
+  "name_en": "The Bleached-Hair Mindset",
+  "summary_en": "Not about dyeing your hair. It's about having a life of your own first.",
+  "quote": "想认识就开口，想机会就争取，被拒绝，无所谓。",
+  "quote_en": "Want to meet them? Say hi. Want the chance? Go for it. Rejected? Whatever."
+ },
+ {
+  "id": "dashui-lilun",
+  "name": "大水理论",
+  "aliases": [
+   "喝大水"
+  ],
+  "generation": "2026新理论",
+  "first_viral": "2026-10-05",
+  "proposer": null,
+  "platform": "抖音",
+  "tags": [
+   "健康",
+   "饮食"
+  ],
+  "status": "活跃",
+  "file": "theories/2026/dashui-lilun.md",
+  "sources": [
+   "https://news.qq.com/rain/a/20261008A097BP00",
+   "https://feng.ifeng.com/c/8xBa5IqOUpx",
+   "http://www.xinhuanet.com/food/20261016/9ab3d3c0813b4e0390f8dc40975b4b3d/c.html",
+   "https://news.qq.com/rain/a/20261012A07K4U00",
+   "https://m.gmw.cn/2026-10/25/content_1304578987.htm"
+  ],
+  "summary": "奶茶戒了，拎一瓶两升的白开水出门。",
+  "name_en": "The Big Water Theory",
+  "summary_en": "Ditch the bubble tea. Carry a 2-liter bottle of water instead.",
+  "quote": "弱者喝饮料，强者喝大水。",
+  "quote_en": "The weak drink soda. The strong drink big water."
+ },
+ {
+  "id": "dashuijiao-lilun",
+  "file": "theories/2026/dashuijiao-lilun.md",
+  "name": "大睡理论",
+  "aliases": [
+   "睡大觉"
+  ],
+  "name_en": "The Big Sleep Theory",
+  "platform": "抖音",
+  "first_viral": "2026-10",
+  "tags": [
+   "健康",
+   "作息"
+  ],
+  "status": "活跃",
+  "summary": "不熬了，按点睡，睡够八小时。",
+  "summary_en": "No more late nights. Go to bed on time and get your eight hours.",
+  "quote": "",
+  "sources": [
+   "https://www.sina.cn/news/detail/5352485305716955.html",
+   "https://news.qq.com/rain/a/20261008A097BP00",
+   "http://www.xinhuanet.com/food/20261016/9ab3d3c0813b4e0390f8dc40975b4b3d/c.html",
+   "https://news.qq.com/rain/a/20261012A07K4U00",
+   "https://m.gmw.cn/2026-10/25/content_1304578987.htm"
+  ],
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "xiaoshui-lilun",
+  "name": "小水理论",
+  "aliases": [],
+  "name_en": "The Small Water Theory",
+  "platform": "抖音",
+  "first_viral": "2026-10",
+  "tags": [
+   "健康",
+   "饮食"
+  ],
+  "status": "活跃",
+  "summary": "大水的反方：小瓶好带、干净，少量多次喝。",
+  "summary_en": "The counter-take on big water: small bottles are cleaner and easier to carry. Sip often.",
+  "quote": "顶男顶女都喝优雅小水。",
+  "quote_en": "The real ones sip elegant small water.",
+  "sources": [
+   "https://www.163.com/dy/article/L8RB57CN0526FP3N.html",
+   "https://www.sina.cn/news/detail/5352485305716955.html"
+  ],
+  "file": "theories/2026/xiaoshui-lilun.md",
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "dabei-lilun",
+  "name": "大杯理论",
+  "aliases": [],
+  "name_en": "The Big Cup Theory",
+  "platform": "抖音",
+  "first_viral": "2026-10",
+  "tags": [
+   "省钱",
+   "饮食"
+  ],
+  "status": "活跃",
+  "summary": "买个和大水一样大的杯子，去公司学校蹭水，连水钱都省了。",
+  "summary_en": "Get a cup as big as a 2L bottle and refill it for free at work or school.",
+  "quote": "",
+  "sources": [
+   "https://www.163.com/dy/article/L8RB57CN0526FP3N.html"
+  ],
+  "file": "theories/2026/dabei-lilun.md",
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "dacai-lilun",
+  "name": "大菜理论",
+  "aliases": [],
+  "name_en": "The Big Veggie Theory",
+  "platform": "抖音",
+  "first_viral": "2026-10",
+  "tags": [
+   "健康",
+   "饮食"
+  ],
+  "status": "活跃",
+  "summary": "光喝大水不够，还得配一大份蔬菜。",
+  "summary_en": "Big water isn't enough. Pair it with a big plate of greens.",
+  "quote": "",
+  "sources": [
+   "https://www.sina.cn/news/detail/5352485305716955.html",
+   "https://www.163.com/dy/article/L8RB57CN0526FP3N.html"
+  ],
+  "file": "theories/2026/dacai-lilun.md",
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "jujue-xuesheng-siwei",
+  "name": "拒绝学生思维",
+  "aliases": [],
+  "name_en": "Quit the Student Mindset",
+  "platform": "短视频平台",
+  "first_viral": "2026-10",
+  "tags": [
+   "职场",
+   "自我"
+  ],
+  "status": "活跃",
+  "summary": "别再等标准答案、等别人安排了，自己拿主意，自己担着。",
+  "summary_en": "Stop waiting for the right answer or for someone to tell you what to do. Decide, and own it.",
+  "quote": "",
+  "sources": [
+   "https://www.sina.cn/news/detail/5352485305716955.html"
+  ],
+  "file": "theories/2026/jujue-xuesheng-siwei.md",
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "jiese-lilun",
+  "name": "戒色理论",
+  "aliases": [],
+  "name_en": "The Abstinence Theory",
+  "platform": "短视频平台",
+  "first_viral": "2026-10",
+  "tags": [
+   "两性",
+   "健康"
+  ],
+  "status": "有争议",
+  "summary": "把正常欲望当成必须戒掉的东西，不少说法把效果吹得太神。",
+  "summary_en": "Treats normal desire as something to quit, often with wildly overblown claims.",
+  "quote": "",
+  "sources": [
+   "https://www.sina.cn/news/detail/5352485305716955.html"
+  ],
+  "file": "theories/2026/jiese-lilun.md",
+  "generation": "2026新理论",
+  "proposer": null
+ },
+ {
+  "id": "dazhan-lilun",
+  "name": "大站理论",
+  "aliases": [],
+  "name_en": "The Big Stand Theory",
+  "generation": "2026新理论",
+  "proposer": "三个人一本书",
+  "platform": "小宇宙播客",
+  "first_viral": "2026-10-13",
+  "tags": [
+   "健康",
+   "职场"
+  ],
+  "status": "活跃",
+  "file": "theories/2026/dazhan-lilun.md",
+  "sources": [
+   "https://www.xiaoyuzhoufm.com/episode/6acdaf77e742e36efcc227ae",
+   "https://www.huxiu.com/article/4897592.html"
+  ],
+  "summary": "别一坐一整天，每坐一小时就起来站五分钟。",
+  "summary_en": "Don't sit all day. Get up and stand for five minutes every hour.",
+  "quote": "世界管不了，但这5分钟我说了算。",
+  "quote_en": "I can't fix the world, but these five minutes are mine."
+ },
+ {
+  "id": "caijiao-lilun",
+  "name": "彩椒理论",
+  "aliases": [],
+  "name_en": "The Bell Pepper Theory",
+  "generation": "2026新理论",
+  "proposer": null,
+  "platform": "微博",
+  "first_viral": "2026-10-14",
+  "tags": [
+   "健康",
+   "饮食"
+  ],
+  "status": "活跃",
+  "file": "theories/2026/caijiao-lilun.md",
+  "sources": [
+   "https://www.sina.cn/news/detail/5353947242957755.html"
+  ],
+  "summary": "把彩椒当成固定吃的蔬菜，简单好吃，颜色多。",
+  "summary_en": "Make bell peppers your go-to vegetable. Easy, tasty, and colorful.",
+  "quote": "如果你不吃大彩椒，那我不要和你说话。",
+  "quote_en": "If you don't eat big bell peppers, I'm not talking to you."
+ },
+ {
+  "id": "queshi-lilun",
+  "name": "确实理论",
+  "aliases": [
+   "确实主义"
+  ],
+  "name_en": "The Indeed Theory",
+  "generation": "2026新理论",
+  "proposer": "Clot渔夫",
+  "platform": "X",
+  "first_viral": "2026-10-14",
+  "tags": [
+   "心理",
+   "自我"
+  ],
+  "status": "活跃",
+  "file": "theories/2026/queshi-lilun.md",
+  "sources": [
+   "https://x.com/clotyufu/status/2110300354994896993",
+   "https://x.com/clotyufu/status/2110327494134112658",
+   "https://x.com/clotyufu/status/2110331589662322912",
+   "https://www.sina.cn/weibo/detail/5346120823997876.html"
+  ],
+  "summary": "别人说啥都先回一句“确实”，不急着反驳，也不急着证明自己。",
+  "summary_en": "Whatever people say, start with \"indeed.\" Don't rush to argue, and don't rush to prove yourself.",
+  "quote": "弱者研究如何反驳别人，强者只会说确实。",
+  "quote_en": "The weak study how to argue back. The strong just say \"indeed.\""
+ }
 ]
